@@ -1,8 +1,13 @@
 #  Curso Digital: Git
 
 ## Gravando mudanças no repositório
+
 ### Gravando mudanças remotamente
-#### fazendo o download dessas mudanças
+
+### Salvando alterações no Git
+- Git push
+- Git pull
+- Git fetch
 
 
 
